@@ -1,0 +1,19 @@
+programa {
+    inteiro salarioMensal
+    inteiro porcentagemSalario
+    inteiro salarioReajustadp
+
+    funcao inicio (){
+
+        escreva("Qual seu salário mensal?: ")
+        leia (salarioMensal)
+
+        se(salarioMensal < 500){
+        porcentagemSalario = salarioMensal /100) * 30
+        escreva("Salário Reajustado: " + salarioReajustado)
+        }
+        senao{
+            escreva("Você não tem direito ao reajuste.")
+        }
+    }
+}

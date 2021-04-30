@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\bin\Debug\net5.0\CalculadoraIdade.exe
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\bin\Debug\net5.0\CalculadoraIdade.deps.json
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\bin\Debug\net5.0\CalculadoraIdade.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\bin\Debug\net5.0\CalculadoraIdade.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\bin\Debug\net5.0\CalculadoraIdade.dll
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\bin\Debug\net5.0\ref\CalculadoraIdade.dll
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\bin\Debug\net5.0\CalculadoraIdade.pdb
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.dll
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\ref\CalculadoraIdade.dll
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.pdb
+C:\Users\55119\Desktop\Backend\CalculadoraIdade\obj\Debug\net5.0\CalculadoraIdade.genruntimeconfig.cache

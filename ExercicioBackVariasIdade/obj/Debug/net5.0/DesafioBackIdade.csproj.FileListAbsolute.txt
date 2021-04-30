@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\bin\Debug\net5.0\DesafioBackIdade.exe
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\bin\Debug\net5.0\DesafioBackIdade.deps.json
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\bin\Debug\net5.0\DesafioBackIdade.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\bin\Debug\net5.0\DesafioBackIdade.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\bin\Debug\net5.0\DesafioBackIdade.dll
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\bin\Debug\net5.0\ref\DesafioBackIdade.dll
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\bin\Debug\net5.0\DesafioBackIdade.pdb
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.dll
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\ref\DesafioBackIdade.dll
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.pdb
+C:\Users\55119\Desktop\Backend\DesafioBackIdade\obj\Debug\net5.0\DesafioBackIdade.genruntimeconfig.cache

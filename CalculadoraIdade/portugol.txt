@@ -1,0 +1,21 @@
+programa {
+    inteiro anoNascimento
+    inteiro anoAtual
+    inteiro idadeDaPessoa
+    inteiro idadeEmSemanas
+
+    funcao inicio (){
+
+        escreva("Em qual ano você nasceu?: ")
+        leia (anoNascimento)
+
+        escreva("Em qual ano você está?: ")
+        leia (anoAtual)
+
+        idadeDaPessoa = anoAtual - anoNascimento
+        idadeEmSemanas = idadeDaPessoa * 52
+
+        escreva("Sua idade é: " + idadeDaPessoa + "\n");
+        escreva("Sua idade em semanas é: " + idadeEmSemanas + "\n");
+    }
+}

@@ -1,0 +1,27 @@
+programa {
+    inteiro idadeDaPessoa
+    inteiro idadeEmMeses
+    inteiro idadeEmSemanas
+    inteiro idadeEmDias
+    inteiro idadeEmHoras
+    inteiro idadeEmMinutos
+
+    funcao inicio (){
+
+        escreva("Qual é sua idade?: ")
+        leia (idadeDaPessoa)
+
+        idadeEmMeses = idadeDaPessoa * 12
+        idadeEmSemanas = idadeDaPessoa * 52
+        idadeEmDias = idadeDaPessoa * 365
+        idadeEmHoras = idadeDaPessoa * 8766
+        idadeEmMinutos = idadeDaPessoa * 525960
+
+        escreva("Sua idade em meses é: " + idadeEmMeses + "\n");
+        escreva("Sua idade em dias é: " + idadeEmDias + "\n");
+        escreva("Sua idade em semanas é: " + idadeEmSemanas + "\n");
+        escreva("Sua idade em horas é: " + idadeEmHoras + "\n");
+        escreva("Sua idade em minutos é: " + idadeEmMinutos + "\n");
+    }
+
+}

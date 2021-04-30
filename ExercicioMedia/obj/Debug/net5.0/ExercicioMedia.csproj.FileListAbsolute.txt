@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\ExercicioMedia\bin\Debug\net5.0\ExercicioMedia.exe
+C:\Users\55119\Desktop\Backend\ExercicioMedia\bin\Debug\net5.0\ExercicioMedia.deps.json
+C:\Users\55119\Desktop\Backend\ExercicioMedia\bin\Debug\net5.0\ExercicioMedia.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\ExercicioMedia\bin\Debug\net5.0\ExercicioMedia.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\ExercicioMedia\bin\Debug\net5.0\ExercicioMedia.dll
+C:\Users\55119\Desktop\Backend\ExercicioMedia\bin\Debug\net5.0\ref\ExercicioMedia.dll
+C:\Users\55119\Desktop\Backend\ExercicioMedia\bin\Debug\net5.0\ExercicioMedia.pdb
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.dll
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ref\ExercicioMedia.dll
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.pdb
+C:\Users\55119\Desktop\Backend\ExercicioMedia\obj\Debug\net5.0\ExercicioMedia.genruntimeconfig.cache

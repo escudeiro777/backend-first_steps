@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\BackEmpresa\bin\Debug\net5.0\BackEmpresa.exe
+C:\Users\55119\Desktop\Backend\BackEmpresa\bin\Debug\net5.0\BackEmpresa.deps.json
+C:\Users\55119\Desktop\Backend\BackEmpresa\bin\Debug\net5.0\BackEmpresa.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\BackEmpresa\bin\Debug\net5.0\BackEmpresa.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\BackEmpresa\bin\Debug\net5.0\BackEmpresa.dll
+C:\Users\55119\Desktop\Backend\BackEmpresa\bin\Debug\net5.0\ref\BackEmpresa.dll
+C:\Users\55119\Desktop\Backend\BackEmpresa\bin\Debug\net5.0\BackEmpresa.pdb
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.dll
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\ref\BackEmpresa.dll
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.pdb
+C:\Users\55119\Desktop\Backend\BackEmpresa\obj\Debug\net5.0\BackEmpresa.genruntimeconfig.cache

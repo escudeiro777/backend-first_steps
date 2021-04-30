@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\DesafioBack\bin\Debug\net5.0\DesafioBack.exe
+C:\Users\55119\Desktop\Backend\DesafioBack\bin\Debug\net5.0\DesafioBack.deps.json
+C:\Users\55119\Desktop\Backend\DesafioBack\bin\Debug\net5.0\DesafioBack.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\DesafioBack\bin\Debug\net5.0\DesafioBack.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\DesafioBack\bin\Debug\net5.0\DesafioBack.dll
+C:\Users\55119\Desktop\Backend\DesafioBack\bin\Debug\net5.0\ref\DesafioBack.dll
+C:\Users\55119\Desktop\Backend\DesafioBack\bin\Debug\net5.0\DesafioBack.pdb
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.dll
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\ref\DesafioBack.dll
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.pdb
+C:\Users\55119\Desktop\Backend\DesafioBack\obj\Debug\net5.0\DesafioBack.genruntimeconfig.cache

@@ -1,0 +1,35 @@
+programa {
+    inteiro idadeDaPessoa
+
+    funcao inicio (){
+
+        escreva("Qual a sua idade?: ")
+        leia (idadeDaPessoa)
+
+        se(idadeDaPessoa > 4 e idadeDaPessoa < 8)
+        {
+            escreva("Sua categoria é: Infantil A")
+        }
+
+        se( idadeDaPessoa > 7 e idadeDaPessoa < 11)
+        {
+             escreva("Sua categoria é: Infantil B")
+        }
+
+        se ( idadeDaPessoa > 10 e idadeDaPessoa < 14)
+        {
+             escreva("Sua categoria é: Juvenil A")
+        }
+
+        se ( idadeDaPessoa > 13 e idadeDaPessoa < 18)
+        {
+             escreva("Sua categoria é: Juvenil B")
+        }
+
+        se ( idadeDaPessoa > 17 )
+        {
+             escreva("Sua categoria é: Sênior")
+        }
+
+    }
+}

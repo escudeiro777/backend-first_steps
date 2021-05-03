@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\ExemploSwitch\romano\bin\Debug\net5.0\romano.exe
+C:\Users\55119\Desktop\ExemploSwitch\romano\bin\Debug\net5.0\romano.deps.json
+C:\Users\55119\Desktop\ExemploSwitch\romano\bin\Debug\net5.0\romano.runtimeconfig.json
+C:\Users\55119\Desktop\ExemploSwitch\romano\bin\Debug\net5.0\romano.runtimeconfig.dev.json
+C:\Users\55119\Desktop\ExemploSwitch\romano\bin\Debug\net5.0\romano.dll
+C:\Users\55119\Desktop\ExemploSwitch\romano\bin\Debug\net5.0\ref\romano.dll
+C:\Users\55119\Desktop\ExemploSwitch\romano\bin\Debug\net5.0\romano.pdb
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.AssemblyInfo.cs
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.dll
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\ref\romano.dll
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.pdb
+C:\Users\55119\Desktop\ExemploSwitch\romano\obj\Debug\net5.0\romano.genruntimeconfig.cache

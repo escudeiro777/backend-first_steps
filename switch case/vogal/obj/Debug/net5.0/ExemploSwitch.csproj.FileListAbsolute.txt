@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.exe
+C:\Users\55119\Desktop\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.deps.json
+C:\Users\55119\Desktop\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.runtimeconfig.json
+C:\Users\55119\Desktop\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.runtimeconfig.dev.json
+C:\Users\55119\Desktop\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.dll
+C:\Users\55119\Desktop\ExemploSwitch\bin\Debug\net5.0\ref\ExemploSwitch.dll
+C:\Users\55119\Desktop\ExemploSwitch\bin\Debug\net5.0\ExemploSwitch.pdb
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.AssemblyInfo.cs
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.dll
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ref\ExemploSwitch.dll
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.pdb
+C:\Users\55119\Desktop\ExemploSwitch\obj\Debug\net5.0\ExemploSwitch.genruntimeconfig.cache

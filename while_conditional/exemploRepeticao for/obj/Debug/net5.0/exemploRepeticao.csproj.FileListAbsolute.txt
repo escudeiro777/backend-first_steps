@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\bin\Debug\net5.0\exemploRepeticao.exe
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\bin\Debug\net5.0\exemploRepeticao.deps.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\bin\Debug\net5.0\exemploRepeticao.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\bin\Debug\net5.0\exemploRepeticao.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\bin\Debug\net5.0\exemploRepeticao.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\bin\Debug\net5.0\ref\exemploRepeticao.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\bin\Debug\net5.0\exemploRepeticao.pdb
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\ref\exemploRepeticao.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.pdb
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao\obj\Debug\net5.0\exemploRepeticao.genruntimeconfig.cache

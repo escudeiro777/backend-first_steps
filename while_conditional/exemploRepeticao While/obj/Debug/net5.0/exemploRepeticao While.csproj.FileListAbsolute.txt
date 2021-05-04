@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\bin\Debug\net5.0\exemploRepeticao While.exe
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\bin\Debug\net5.0\exemploRepeticao While.deps.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\bin\Debug\net5.0\exemploRepeticao While.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\bin\Debug\net5.0\exemploRepeticao While.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\bin\Debug\net5.0\exemploRepeticao While.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\bin\Debug\net5.0\ref\exemploRepeticao While.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\bin\Debug\net5.0\exemploRepeticao While.pdb
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\ref\exemploRepeticao While.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.pdb
+C:\Users\55119\Desktop\Backend\while_conditional\exemploRepeticao While\obj\Debug\net5.0\exemploRepeticao While.genruntimeconfig.cache

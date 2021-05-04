@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\bin\Debug\net5.0\exemploDo.exe
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\bin\Debug\net5.0\exemploDo.deps.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\bin\Debug\net5.0\exemploDo.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\bin\Debug\net5.0\exemploDo.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\bin\Debug\net5.0\exemploDo.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\bin\Debug\net5.0\ref\exemploDo.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\bin\Debug\net5.0\exemploDo.pdb
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\ref\exemploDo.dll
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.pdb
+C:\Users\55119\Desktop\Backend\while_conditional\exemploDo\obj\Debug\net5.0\exemploDo.genruntimeconfig.cache

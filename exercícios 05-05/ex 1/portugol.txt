@@ -1,0 +1,18 @@
+programa{
+    logico nota = FALSO
+    enquanto nota == FALSO
+    real respostaUsuario
+
+    funcao inicio (){
+         escreva = ("Digite qual foi sua nota:")
+         leia (respostaUsuario)
+         se(respostaUsuario >= 0 e respostaUsuario <= 10)
+
+            entao escreva ("Parábéns! Sua nota foi " + respostaUsuario");
+            
+         senao escreva (""Insira um valor válido!"")
+         
+    }
+
+
+}

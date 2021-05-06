@@ -1,0 +1,63 @@
+programa{
+
+logico validacao = FALSO
+
+funcao inicio (){
+
+caractere nome = ""
+ faça{
+
+     escreva = ("Qual o seu nome?:")
+     leia (nome)
+
+     se (nome == "")
+         entao escreva = ("Insira um nome válido.")
+         senão escreva = ("Nome validado") 
+               validacao = VERDADEIRO 
+    enquanto validacao = FALSO
+
+
+
+inteiro idade
+ faça{
+
+     escreva = ("Qual é a sua idade?:")
+     leia (idade)
+
+     se (idade >= 0 e idade <= 150)
+         entao escreva = ("Idade validada.")
+               validacao = VERDADEIRO 
+         senão escreva = ("Idade Inválida.")
+               validacao = FALSO
+    enquanto validacao = FALSO  
+
+real salario
+ faça{
+
+     escreva = ("Qual é o seu salário":)
+     leia (salario)
+
+     se (idade >0)
+         entao escreva = ("Salário validado.")
+               validacao = VERDADEIRO  
+         senão escreva = ( "Salário inválido.")
+               validacao = FALSO
+    enquanto validacao = FALSO
+
+caractere estadoCivil = ""
+ faça{
+
+     escreva = ("Qual seu estado civil?")
+     leia (estadoCivil )
+
+     se (estadoCivil == "s" ou estadoCivil == "c" ou estadoCivil == "d" ou estadoCivil == "v" ))
+         entao escreva = ("Estado Civíl validado.")
+               escreva = ("Todas as informações foram válidas! Parabéns.") 
+               validacao = VERDADEIRO 
+         senão escreva = ("Estado Civíl inválido.") 
+         validacao = FALSO 
+    enquanto validacao = FALSO
+ }
+}
+    
+

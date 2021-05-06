@@ -1,0 +1,25 @@
+programa{
+
+logico senha = FALSO
+enquanto senha == FALSO
+caractere user
+caractere password
+
+funcao(){
+
+    escreva ("Digite seu login: ")
+    leia (user)
+
+    escreva ("Digite sua senha ")
+    leia (password)
+
+    se ( user != password)
+    entao escreva ("Parábéns! Sua conta foi criada")
+          senha=VERDADEIRO
+    senao ( escreva "Insira uma senha válida!" )
+
+
+}
+
+
+}

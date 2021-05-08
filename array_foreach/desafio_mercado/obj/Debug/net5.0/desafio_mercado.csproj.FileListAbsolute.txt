@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\bin\Debug\net5.0\desafio_mercado.exe
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\bin\Debug\net5.0\desafio_mercado.deps.json
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\bin\Debug\net5.0\desafio_mercado.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\bin\Debug\net5.0\desafio_mercado.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\bin\Debug\net5.0\desafio_mercado.dll
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\bin\Debug\net5.0\ref\desafio_mercado.dll
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\bin\Debug\net5.0\desafio_mercado.pdb
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.dll
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\ref\desafio_mercado.dll
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.pdb
+C:\Users\55119\Desktop\Backend\array_foreach\desafio_mercado\obj\Debug\net5.0\desafio_mercado.genruntimeconfig.cache

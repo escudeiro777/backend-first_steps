@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "funcoes_aula/1.0.0": {
+        "runtime": {
+          "funcoes_aula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "funcoes_aula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

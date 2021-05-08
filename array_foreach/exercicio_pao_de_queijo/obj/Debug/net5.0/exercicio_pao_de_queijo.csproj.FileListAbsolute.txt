@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\bin\Debug\net5.0\exercicio_pao_de_queijo.exe
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\bin\Debug\net5.0\exercicio_pao_de_queijo.deps.json
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\bin\Debug\net5.0\exercicio_pao_de_queijo.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\bin\Debug\net5.0\exercicio_pao_de_queijo.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\bin\Debug\net5.0\exercicio_pao_de_queijo.dll
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\bin\Debug\net5.0\ref\exercicio_pao_de_queijo.dll
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\bin\Debug\net5.0\exercicio_pao_de_queijo.pdb
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.dll
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\ref\exercicio_pao_de_queijo.dll
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.pdb
+C:\Users\55119\Desktop\Backend\array_foreach\exercicio_pao_de_queijo\obj\Debug\net5.0\exercicio_pao_de_queijo.genruntimeconfig.cache

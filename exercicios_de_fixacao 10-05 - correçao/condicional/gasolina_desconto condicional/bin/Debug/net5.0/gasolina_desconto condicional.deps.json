@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "gasolina_desconto condicional/1.0.0": {
+        "runtime": {
+          "gasolina_desconto condicional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gasolina_desconto condicional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

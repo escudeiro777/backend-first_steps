@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\bin\Debug\net5.0\numeros_inverso vetor.exe
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\bin\Debug\net5.0\numeros_inverso vetor.deps.json
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\bin\Debug\net5.0\numeros_inverso vetor.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\bin\Debug\net5.0\numeros_inverso vetor.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\bin\Debug\net5.0\numeros_inverso vetor.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\bin\Debug\net5.0\ref\numeros_inverso vetor.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\bin\Debug\net5.0\numeros_inverso vetor.pdb
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\ref\numeros_inverso vetor.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.pdb
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\vetores\numeros_inverso vetor\obj\Debug\net5.0\numeros_inverso vetor.genruntimeconfig.cache

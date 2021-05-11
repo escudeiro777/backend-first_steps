@@ -19,7 +19,7 @@ namespace numeros_inverso_vetor
             }
              for (var i = 14; i >= 0; i--)
              {
-                 Console.WriteLine(valores[i]);
+                 Console.WriteLine($"\n{valores[i]}");
              }
 
         }

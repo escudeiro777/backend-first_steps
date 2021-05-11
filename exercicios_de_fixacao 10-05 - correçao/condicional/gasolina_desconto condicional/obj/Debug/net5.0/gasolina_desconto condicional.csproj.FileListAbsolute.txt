@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\bin\Debug\net5.0\gasolina_desconto condicional.exe
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\bin\Debug\net5.0\gasolina_desconto condicional.deps.json
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\bin\Debug\net5.0\gasolina_desconto condicional.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\bin\Debug\net5.0\gasolina_desconto condicional.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\bin\Debug\net5.0\gasolina_desconto condicional.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\bin\Debug\net5.0\ref\gasolina_desconto condicional.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\bin\Debug\net5.0\gasolina_desconto condicional.pdb
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\ref\gasolina_desconto condicional.dll
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.pdb
+C:\Users\55119\Desktop\Backend\exercicios_de_fixacao 10-05 - correçao\condicional\gasolina_desconto condicional\obj\Debug\net5.0\gasolina_desconto condicional.genruntimeconfig.cache

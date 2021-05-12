@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas.exe
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas.deps.json
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\bin\Debug\net5.0\ref\12.05- Projeto Passagens Aéreas.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas.pdb
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\ref\12.05- Projeto Passagens Aéreas.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.pdb
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas.genruntimeconfig.cache

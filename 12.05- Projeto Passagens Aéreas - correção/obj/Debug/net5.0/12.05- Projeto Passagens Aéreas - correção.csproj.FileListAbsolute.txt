@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.exe
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.deps.json
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.runtimeconfig.json
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\bin\Debug\net5.0\ref\12.05- Projeto Passagens Aéreas - correção.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\bin\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.pdb
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\ref\12.05- Projeto Passagens Aéreas - correção.dll
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.pdb
+C:\Users\55119\Desktop\Backend\12.05- Projeto Passagens Aéreas - correção\obj\Debug\net5.0\12.05- Projeto Passagens Aéreas - correção.genruntimeconfig.cache
